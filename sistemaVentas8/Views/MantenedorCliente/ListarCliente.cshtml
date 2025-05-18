@@ -70,8 +70,8 @@
             <td>
 
                 @Html.ActionLink("Editar", "EditarCliente", "MantenedorCliente", new { idCliente = item.idCliente }, new { @class = "button-editar" })
-                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
-                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                @Html.ActionLink("Details", "DetallesCliente", "MantenedorCliente", new { idCliente = item.idCliente }, new { @class = "btn btn-info" })
+                @Html.ActionLink("Inhabilitar", "InhabilitarCliente", "MantenedorCliente", new { idCliente = item.idCliente }, new { @class = "button-inhabilitar" })
             </td>
         </tr>
 }

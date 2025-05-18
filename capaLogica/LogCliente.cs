@@ -50,7 +50,11 @@ namespace capaLogica
         {
             return DatCliente.Instancia.EditarCliente(entCliente);
         }
-
+        
+        public bool InhabilitarCliente(EntCliente cl)
+        {
+            return DatCliente.Instancia.InhabilitarCliente(cl);
+        }
         #endregion Metodos
 
     }

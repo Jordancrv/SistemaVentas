@@ -21,6 +21,7 @@ namespace sistemaVentas8.Controllers
             return View(); //Esto va a llamar a la vistar InsertarCliente
         }
 
+        [HttpGet]
         public IActionResult EditarCliente(int idCliente)
         {
             try
@@ -34,6 +35,38 @@ namespace sistemaVentas8.Controllers
                 return View(cliente);
             }
             catch (Exception ex) {
+                ViewBag.Error = $"Ocurrió un error al buscar el cliente: {ex.Message}";
+                return RedirectToAction("ListarCliente");
+            }
+        }
+        [HttpGet]
+        public IActionResult InhabilitarCliente(int idCliente) 
+        {
+            var cliente = LogCliente.Instancia.BuscarCliente(idCliente);
+            if (cliente == null)
+            {
+                TempData["Error"] = "Cliente no encontrado";
+                return RedirectToAction("ListarCliente");
+            }
+            return View(cliente);
+        }
+
+        [HttpGet]
+        public IActionResult DetallesCliente(int idCliente)
+        {
+            try
+            {
+                var cliente = LogCliente.Instancia.BuscarCliente(idCliente);
+
+                if (cliente == null)
+                {
+                    TempData["Error"] = "Cliente no encontrado.";
+                    return RedirectToAction("ListarCliente");
+                }
+                return View(cliente);
+            }
+            catch (Exception ex)
+            {
                 ViewBag.Error = $"Ocurrió un error al buscar el cliente: {ex.Message}";
                 return RedirectToAction("ListarCliente");
             }
@@ -80,7 +113,8 @@ namespace sistemaVentas8.Controllers
                 }
                 else
                 {
-                    ViewBag.Error = "Los datos proporcionados no son válidos.";
+                    TempData["Success"] = "Cliente actualizado correctamente.";
+                    return RedirectToAction("ListarCliente"); ;
                 }
             }
             catch (Exception e)
@@ -90,5 +124,22 @@ namespace sistemaVentas8.Controllers
             return View(entCliente);
 
         }
+        [HttpPost]
+        public IActionResult InhabilitarCliente(EntCliente cl) {
+
+            if (ModelState.IsValid)
+            {
+                 bool inhabilitado = LogCliente.Instancia.InhabilitarCliente(cl);
+                 if (inhabilitado)
+                 {
+                     TempData["Success"] = "Cliente inhabilitado correctamente.";
+                     return RedirectToAction("ListarCliente");
+                 }
+                 ViewBag.Error = "No se pudo inhabilitar al cliente. Verifica los datos.";
+            }
+            return View(cl);
+        
+        }
+    
     }
 }

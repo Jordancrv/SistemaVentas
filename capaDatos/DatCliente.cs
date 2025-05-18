@@ -167,6 +167,30 @@ namespace capaDatos
             return editado;
         }
 
+        public bool InhabilitarCliente (EntCliente cl)
+        {
+            SqlCommand cmd = null;
+            bool inhabilita = false; 
+            try
+            {
+                SqlConnection cn = Conexion.Instancia.Conectar();
+                cmd = new SqlCommand("spInhabilitarCliente", cn);
+                cmd.CommandType = CommandType.StoredProcedure;
+
+                cmd.Parameters.AddWithValue("@idCliente",cl.idCliente);
+
+                cn.Open();
+                int filas = cmd.ExecuteNonQuery();
+                inhabilita = filas > 0;
+
+            }
+            catch(Exception e) {
+                throw e;
+            
+            }
+            return inhabilita;
+        }
+
         #endregion Metodos
     }
 }

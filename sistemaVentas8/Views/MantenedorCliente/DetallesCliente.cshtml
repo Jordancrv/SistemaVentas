@@ -1,0 +1,25 @@
+﻿@model capaEntidad.EntCliente
+
+@{
+    ViewData["Title"] = "Detalles del Cliente";
+}
+
+<h2>Detalles del Cliente</h2>
+
+<div class="card">
+    <div class="card-body">
+        <h4>Información del Cliente</h4>
+        <hr />
+        <p><strong>ID Cliente:</strong> @Model.idCliente</p>
+        <p><strong>RUC:</strong> @Model.rucCliente</p>
+        <p><strong>Razón Social:</strong> @Model.razonSocial</p>
+        <p><strong>Dirección:</strong> @Model.dirCliente</p>
+        <p><strong>Ciudad:</strong> @Model.idCiudad</p>
+        <p><strong>Tipo de Cliente:</strong> @Model.idTipoCliente</p>
+        <p><strong>Estado:</strong> @Model.idEstCliente</p>
+        <p><strong>Fecha de Creación:</strong> @Model.fecCreacion.ToString("dd/MM/yyyy")</p>
+    </div>
+    <div class="card-footer">
+        <a asp-action="ListarCliente" class="btn btn-primary">Volver a la lista</a>
+    </div>
+</div>

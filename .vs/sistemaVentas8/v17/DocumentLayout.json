@@ -1,42 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jorda\\source\\repos\\sistemaVentas8\\",
+  "WorkspaceRootPath": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{07300F64-50FF-4EB7-B65A-8170506C8C01}|capaDatos\\capaDatos.csproj|C:\\Users\\jorda\\source\\repos\\sistemaVentas8\\capadatos\\datcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07300F64-50FF-4EB7-B65A-8170506C8C01}|capaDatos\\capaDatos.csproj|solutionrelative:capadatos\\datcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|c:\\users\\jorda\\source\\repos\\sistemaventas8\\sistemaventas8\\views\\mantenedorcliente\\editarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|solutionrelative:sistemaventas8\\views\\mantenedorcliente\\editarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|c:\\users\\jorda\\source\\repos\\sistemaventas8\\sistemaventas8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|solutionrelative:sistemaventas8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|c:\\users\\jorda\\source\\repos\\sistemaventas8\\sistemaventas8\\views\\mantenedorcliente\\listarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|c:\\cursos\\diars\\semana 8\\sistemaventas8\\sistemaventas8\\views\\mantenedorcliente\\listarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|solutionrelative:sistemaventas8\\views\\mantenedorcliente\\listarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|c:\\users\\jorda\\source\\repos\\sistemaventas8\\sistemaventas8\\views\\mantenedorcliente\\insertarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|solutionrelative:sistemaventas8\\views\\mantenedorcliente\\insertarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|c:\\cursos\\diars\\semana 8\\sistemaventas8\\sistemaventas8\\views\\mantenedorcliente\\detallescliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|solutionrelative:sistemaventas8\\views\\mantenedorcliente\\detallescliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|c:\\users\\jorda\\source\\repos\\sistemaventas8\\sistemaventas8\\controllers\\mantenedorclientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|c:\\cursos\\diars\\semana 8\\sistemaventas8\\sistemaventas8\\controllers\\mantenedorclientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|solutionrelative:sistemaventas8\\controllers\\mantenedorclientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E157F97-33A9-46A1-8BC9-D72E1F2574F7}|capaLogica\\capaLogica.csproj|C:\\Users\\jorda\\source\\repos\\sistemaVentas8\\capalogica\\logcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{07300F64-50FF-4EB7-B65A-8170506C8C01}|capaDatos\\capaDatos.csproj|c:\\cursos\\diars\\semana 8\\sistemaventas8\\capadatos\\datcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07300F64-50FF-4EB7-B65A-8170506C8C01}|capaDatos\\capaDatos.csproj|solutionrelative:capadatos\\datcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E157F97-33A9-46A1-8BC9-D72E1F2574F7}|capaLogica\\capaLogica.csproj|C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\capalogica\\logcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E157F97-33A9-46A1-8BC9-D72E1F2574F7}|capaLogica\\capaLogica.csproj|solutionrelative:capalogica\\logcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAF2E955-CB49-4050-A465-A9B5091E2D19}|capaEntidad\\capaEntidad.csproj|C:\\Users\\jorda\\source\\repos\\sistemaVentas8\\capaentidad\\entcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAF2E955-CB49-4050-A465-A9B5091E2D19}|capaEntidad\\capaEntidad.csproj|solutionrelative:capaentidad\\entcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|c:\\cursos\\diars\\semana 8\\sistemaventas8\\sistemaventas8\\views\\mantenedorcliente\\inhabilitarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|solutionrelative:sistemaventas8\\views\\mantenedorcliente\\inhabilitarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07300F64-50FF-4EB7-B65A-8170506C8C01}|capaDatos\\capaDatos.csproj|C:\\Users\\jorda\\source\\repos\\sistemaVentas8\\capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|c:\\cursos\\diars\\semana 8\\sistemaventas8\\sistemaventas8\\views\\mantenedorcliente\\insertarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|solutionrelative:sistemaventas8\\views\\mantenedorcliente\\insertarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|c:\\cursos\\diars\\semana 8\\sistemaventas8\\sistemaventas8\\views\\mantenedorcliente\\editarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|solutionrelative:sistemaventas8\\views\\mantenedorcliente\\editarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07300F64-50FF-4EB7-B65A-8170506C8C01}|capaDatos\\capaDatos.csproj|C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07300F64-50FF-4EB7-B65A-8170506C8C01}|capaDatos\\capaDatos.csproj|solutionrelative:capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|c:\\cursos\\diars\\semana 8\\sistemaventas8\\sistemaventas8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|solutionrelative:sistemaventas8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF2E955-CB49-4050-A465-A9B5091E2D19}|capaEntidad\\capaEntidad.csproj|C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\capaentidad\\entcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF2E955-CB49-4050-A465-A9B5091E2D19}|capaEntidad\\capaEntidad.csproj|solutionrelative:capaentidad\\entcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -59,23 +67,49 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "DetallesCliente.cshtml",
+              "DocumentMoniker": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\sistemaVentas8\\Views\\MantenedorCliente\\DetallesCliente.cshtml",
+              "RelativeDocumentMoniker": "sistemaVentas8\\Views\\MantenedorCliente\\DetallesCliente.cshtml",
+              "ToolTip": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\sistemaVentas8\\Views\\MantenedorCliente\\DetallesCliente.cshtml",
+              "RelativeToolTip": "sistemaVentas8\\Views\\MantenedorCliente\\DetallesCliente.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T22:34:00.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InhabilitarCliente.cshtml",
+              "DocumentMoniker": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\sistemaVentas8\\Views\\MantenedorCliente\\InhabilitarCliente.cshtml",
+              "RelativeDocumentMoniker": "sistemaVentas8\\Views\\MantenedorCliente\\InhabilitarCliente.cshtml",
+              "ToolTip": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\sistemaVentas8\\Views\\MantenedorCliente\\InhabilitarCliente.cshtml",
+              "RelativeToolTip": "sistemaVentas8\\Views\\MantenedorCliente\\InhabilitarCliente.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T22:05:18.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "EditarCliente.cshtml",
-              "DocumentMoniker": "C:\\Users\\jorda\\source\\repos\\sistemaVentas8\\sistemaVentas8\\Views\\MantenedorCliente\\EditarCliente.cshtml",
+              "DocumentMoniker": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\sistemaVentas8\\Views\\MantenedorCliente\\EditarCliente.cshtml",
               "RelativeDocumentMoniker": "sistemaVentas8\\Views\\MantenedorCliente\\EditarCliente.cshtml",
-              "ToolTip": "C:\\Users\\jorda\\source\\repos\\sistemaVentas8\\sistemaVentas8\\Views\\MantenedorCliente\\EditarCliente.cshtml",
+              "ToolTip": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\sistemaVentas8\\Views\\MantenedorCliente\\EditarCliente.cshtml",
               "RelativeToolTip": "sistemaVentas8\\Views\\MantenedorCliente\\EditarCliente.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADUAAABMAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwEUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-18T17:54:27.918Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "InsertarCliente.cshtml",
-              "DocumentMoniker": "C:\\Users\\jorda\\source\\repos\\sistemaVentas8\\sistemaVentas8\\Views\\MantenedorCliente\\InsertarCliente.cshtml",
+              "DocumentMoniker": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\sistemaVentas8\\Views\\MantenedorCliente\\InsertarCliente.cshtml",
               "RelativeDocumentMoniker": "sistemaVentas8\\Views\\MantenedorCliente\\InsertarCliente.cshtml",
-              "ToolTip": "C:\\Users\\jorda\\source\\repos\\sistemaVentas8\\sistemaVentas8\\Views\\MantenedorCliente\\InsertarCliente.cshtml",
+              "ToolTip": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\sistemaVentas8\\Views\\MantenedorCliente\\InsertarCliente.cshtml",
               "RelativeToolTip": "sistemaVentas8\\Views\\MantenedorCliente\\InsertarCliente.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -84,39 +118,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jorda\\source\\repos\\sistemaVentas8\\sistemaVentas8\\Program.cs",
+              "DocumentMoniker": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\sistemaVentas8\\Program.cs",
               "RelativeDocumentMoniker": "sistemaVentas8\\Program.cs",
-              "ToolTip": "C:\\Users\\jorda\\source\\repos\\sistemaVentas8\\sistemaVentas8\\Program.cs",
+              "ToolTip": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\sistemaVentas8\\Program.cs",
               "RelativeToolTip": "sistemaVentas8\\Program.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAASwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T15:54:09.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T15:54:09.666Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ListarCliente.cshtml",
-              "DocumentMoniker": "C:\\Users\\jorda\\source\\repos\\sistemaVentas8\\sistemaVentas8\\Views\\MantenedorCliente\\ListarCliente.cshtml",
+              "DocumentMoniker": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\sistemaVentas8\\Views\\MantenedorCliente\\ListarCliente.cshtml",
               "RelativeDocumentMoniker": "sistemaVentas8\\Views\\MantenedorCliente\\ListarCliente.cshtml",
-              "ToolTip": "C:\\Users\\jorda\\source\\repos\\sistemaVentas8\\sistemaVentas8\\Views\\MantenedorCliente\\ListarCliente.cshtml",
+              "ToolTip": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\sistemaVentas8\\Views\\MantenedorCliente\\ListarCliente.cshtml",
               "RelativeToolTip": "sistemaVentas8\\Views\\MantenedorCliente\\ListarCliente.cshtml",
-              "ViewState": "AgIAACwAAAAAAAAAAAAmwEcAAABVAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwEkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-18T15:50:30.37Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "MantenedorClienteController.cs",
-              "DocumentMoniker": "C:\\Users\\jorda\\source\\repos\\sistemaVentas8\\sistemaVentas8\\Controllers\\MantenedorClienteController.cs",
+              "DocumentMoniker": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\sistemaVentas8\\Controllers\\MantenedorClienteController.cs",
               "RelativeDocumentMoniker": "sistemaVentas8\\Controllers\\MantenedorClienteController.cs",
-              "ToolTip": "C:\\Users\\jorda\\source\\repos\\sistemaVentas8\\sistemaVentas8\\Controllers\\MantenedorClienteController.cs",
+              "ToolTip": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\sistemaVentas8\\Controllers\\MantenedorClienteController.cs",
               "RelativeToolTip": "sistemaVentas8\\Controllers\\MantenedorClienteController.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAiwF4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAqwBcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-18T15:47:16.72Z",
               "EditorCaption": ""
@@ -125,53 +158,52 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\jorda\\source\\repos\\sistemaVentas8\\capaDatos\\Conexion.cs",
+              "DocumentMoniker": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\capaDatos\\Conexion.cs",
               "RelativeDocumentMoniker": "capaDatos\\Conexion.cs",
-              "ToolTip": "C:\\Users\\jorda\\source\\repos\\sistemaVentas8\\capaDatos\\Conexion.cs",
+              "ToolTip": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\capaDatos\\Conexion.cs",
               "RelativeToolTip": "capaDatos\\Conexion.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-18T15:21:19.649Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "LogCliente.cs",
-              "DocumentMoniker": "C:\\Users\\jorda\\source\\repos\\sistemaVentas8\\capaLogica\\LogCliente.cs",
+              "DocumentMoniker": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\capaLogica\\LogCliente.cs",
               "RelativeDocumentMoniker": "capaLogica\\LogCliente.cs",
-              "ToolTip": "C:\\Users\\jorda\\source\\repos\\sistemaVentas8\\capaLogica\\LogCliente.cs",
+              "ToolTip": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\capaLogica\\LogCliente.cs",
               "RelativeToolTip": "capaLogica\\LogCliente.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwDkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-18T15:14:23.951Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "DatCliente.cs",
-              "DocumentMoniker": "C:\\Users\\jorda\\source\\repos\\sistemaVentas8\\capaDatos\\DatCliente.cs",
+              "DocumentMoniker": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\capaDatos\\DatCliente.cs",
               "RelativeDocumentMoniker": "capaDatos\\DatCliente.cs",
-              "ToolTip": "C:\\Users\\jorda\\source\\repos\\sistemaVentas8\\capaDatos\\DatCliente.cs",
+              "ToolTip": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\capaDatos\\DatCliente.cs",
               "RelativeToolTip": "capaDatos\\DatCliente.cs",
-              "ViewState": "AgIAAI4AAAAAAAAAAAAowJkAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAKMAAAAAAAAAAAApwLsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-18T15:14:08.514Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "EntCliente.cs",
-              "DocumentMoniker": "C:\\Users\\jorda\\source\\repos\\sistemaVentas8\\capaEntidad\\EntCliente.cs",
+              "DocumentMoniker": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\capaEntidad\\EntCliente.cs",
               "RelativeDocumentMoniker": "capaEntidad\\EntCliente.cs",
-              "ToolTip": "C:\\Users\\jorda\\source\\repos\\sistemaVentas8\\capaEntidad\\EntCliente.cs",
+              "ToolTip": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\capaEntidad\\EntCliente.cs",
               "RelativeToolTip": "capaEntidad\\EntCliente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T15:13:50.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T15:13:50.886Z"
             }
           ]
         }
