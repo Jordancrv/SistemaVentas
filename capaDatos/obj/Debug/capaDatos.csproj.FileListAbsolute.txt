@@ -1,0 +1,9 @@
+C:\Users\jorda\source\repos\sistemaVentas8\capaDatos\bin\Debug\capaDatos.dll
+C:\Users\jorda\source\repos\sistemaVentas8\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\jorda\source\repos\sistemaVentas8\capaDatos\bin\Debug\capaEntidad.dll
+C:\Users\jorda\source\repos\sistemaVentas8\capaDatos\bin\Debug\capaEntidad.pdb
+C:\Users\jorda\source\repos\sistemaVentas8\capaDatos\obj\Debug\capaDatos.csproj.AssemblyReference.cache
+C:\Users\jorda\source\repos\sistemaVentas8\capaDatos\obj\Debug\capaDatos.csproj.CoreCompileInputs.cache
+C:\Users\jorda\source\repos\sistemaVentas8\capaDatos\obj\Debug\capaDatos.csproj.Up2Date
+C:\Users\jorda\source\repos\sistemaVentas8\capaDatos\obj\Debug\capaDatos.dll
+C:\Users\jorda\source\repos\sistemaVentas8\capaDatos\obj\Debug\capaDatos.pdb

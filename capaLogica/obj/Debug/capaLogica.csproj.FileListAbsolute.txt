@@ -1,0 +1,11 @@
+C:\Users\jorda\source\repos\sistemaVentas8\capaLogica\bin\Debug\capaLogica.dll
+C:\Users\jorda\source\repos\sistemaVentas8\capaLogica\bin\Debug\capaLogica.pdb
+C:\Users\jorda\source\repos\sistemaVentas8\capaLogica\bin\Debug\capaDatos.dll
+C:\Users\jorda\source\repos\sistemaVentas8\capaLogica\bin\Debug\capaEntidad.dll
+C:\Users\jorda\source\repos\sistemaVentas8\capaLogica\bin\Debug\capaDatos.pdb
+C:\Users\jorda\source\repos\sistemaVentas8\capaLogica\bin\Debug\capaEntidad.pdb
+C:\Users\jorda\source\repos\sistemaVentas8\capaLogica\obj\Debug\capaLogica.csproj.AssemblyReference.cache
+C:\Users\jorda\source\repos\sistemaVentas8\capaLogica\obj\Debug\capaLogica.csproj.CoreCompileInputs.cache
+C:\Users\jorda\source\repos\sistemaVentas8\capaLogica\obj\Debug\capaLogica.csproj.Up2Date
+C:\Users\jorda\source\repos\sistemaVentas8\capaLogica\obj\Debug\capaLogica.dll
+C:\Users\jorda\source\repos\sistemaVentas8\capaLogica\obj\Debug\capaLogica.pdb
