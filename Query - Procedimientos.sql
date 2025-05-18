@@ -19,6 +19,7 @@ Create or ALTER PROCEDURE [dbo].[spListarCliente]
 As
 Select idCliente, rucCliente, razonSocial, dirCliente, idCiudad, idTipoCliente,idEstCliente
 from Cliente
+where idEstCliente != 0
 
 
 
@@ -76,8 +77,14 @@ BEGIN
 END;
 GO
 
-
-
+create or alter procedure [dbo].[spInhabilitarCliente]
+@idCliente int
+as
+begin 
+	update Cliente
+	set idEstCliente = 0
+	where idCliente = @idCliente
+end
 
 
 
