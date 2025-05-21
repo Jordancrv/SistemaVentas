@@ -4,3 +4,9 @@ C:\Users\jorda\source\repos\sistemaVentas8\capaEntidad\obj\Debug\capaEntidad.csp
 C:\Users\jorda\source\repos\sistemaVentas8\capaEntidad\obj\Debug\capaEntidad.csproj.CoreCompileInputs.cache
 C:\Users\jorda\source\repos\sistemaVentas8\capaEntidad\obj\Debug\capaEntidad.dll
 C:\Users\jorda\source\repos\sistemaVentas8\capaEntidad\obj\Debug\capaEntidad.pdb
+C:\Cursos\DIARS\Ideas de Plantillas\sistemaVentas8\capaEntidad\bin\Debug\capaEntidad.dll
+C:\Cursos\DIARS\Ideas de Plantillas\sistemaVentas8\capaEntidad\bin\Debug\capaEntidad.pdb
+C:\Cursos\DIARS\Ideas de Plantillas\sistemaVentas8\capaEntidad\obj\Debug\capaEntidad.csproj.AssemblyReference.cache
+C:\Cursos\DIARS\Ideas de Plantillas\sistemaVentas8\capaEntidad\obj\Debug\capaEntidad.csproj.CoreCompileInputs.cache
+C:\Cursos\DIARS\Ideas de Plantillas\sistemaVentas8\capaEntidad\obj\Debug\capaEntidad.dll
+C:\Cursos\DIARS\Ideas de Plantillas\sistemaVentas8\capaEntidad\obj\Debug\capaEntidad.pdb

@@ -12,7 +12,7 @@ namespace sistemaVentas8.Controllers
         public IActionResult ListarCliente()
         {
             List<EntCliente> lista = LogCliente.Instancia.ListarCliente();
-            return View(lista);
+            return PartialView("ListarCliente", lista);
         }
 
         [HttpGet]

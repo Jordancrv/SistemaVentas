@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PJFYRtu6qVM=",
+  "dgSpecHash": "kHrZxKT37ec=",
   "success": true,
-  "projectFilePath": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\sistemaVentas8\\sistemaVentas8.csproj",
+  "projectFilePath": "C:\\Cursos\\DIARS\\Ideas de Plantillas\\sistemaVentas8\\sistemaVentas8\\sistemaVentas8.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jorda\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\jorda\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

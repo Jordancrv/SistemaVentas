@@ -1,22 +1,89 @@
-html {
-  font-size: 14px;
+/* site.css */
+
+/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
-}
-
-.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
-}
-
-html {
-  position: relative;
-  min-height: 100%;
-}
-
+/* Fuente y colores base */
 body {
-  margin-bottom: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Contenedor principal */
+.main {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+/* Tablas */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+    table th, table td {
+        border: 1px solid #ddd;
+        padding: 12px 15px;
+        text-align: left;
+    }
+
+    table th {
+        background-color: #007bff;
+        color: white;
+    }
+
+/* Links */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+/* Botones */
+button, input[type="submit"] {
+    background-color: #007bff;
+    border: none;
+    color: white;
+    padding: 8px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+    button:hover, input[type="submit"]:hover {
+        background-color: #0056b3;
+    }
+
+/* Formularios */
+input, select, textarea {
+    padding: 8px;
+    width: 100%;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+/* Mensajes de error y éxito */
+.error-message {
+    color: #dc3545;
+    margin-bottom: 15px;
+}
+
+.success-message {
+    color: #28a745;
+    margin-bottom: 15px;
 }

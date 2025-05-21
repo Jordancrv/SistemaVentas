@@ -16,3 +16,12 @@ C:\Cursos\DIARS\SEMANA 8\sistemaVentas8\capaDatos\obj\Debug\capaDatos.csproj.Cor
 C:\Cursos\DIARS\SEMANA 8\sistemaVentas8\capaDatos\obj\Debug\capaDatos.csproj.Up2Date
 C:\Cursos\DIARS\SEMANA 8\sistemaVentas8\capaDatos\obj\Debug\capaDatos.dll
 C:\Cursos\DIARS\SEMANA 8\sistemaVentas8\capaDatos\obj\Debug\capaDatos.pdb
+C:\Cursos\DIARS\Ideas de Plantillas\sistemaVentas8\capaDatos\bin\Debug\capaDatos.dll
+C:\Cursos\DIARS\Ideas de Plantillas\sistemaVentas8\capaDatos\bin\Debug\capaDatos.pdb
+C:\Cursos\DIARS\Ideas de Plantillas\sistemaVentas8\capaDatos\bin\Debug\capaEntidad.dll
+C:\Cursos\DIARS\Ideas de Plantillas\sistemaVentas8\capaDatos\bin\Debug\capaEntidad.pdb
+C:\Cursos\DIARS\Ideas de Plantillas\sistemaVentas8\capaDatos\obj\Debug\capaDatos.csproj.AssemblyReference.cache
+C:\Cursos\DIARS\Ideas de Plantillas\sistemaVentas8\capaDatos\obj\Debug\capaDatos.csproj.CoreCompileInputs.cache
+C:\Cursos\DIARS\Ideas de Plantillas\sistemaVentas8\capaDatos\obj\Debug\capaDatos.csproj.Up2Date
+C:\Cursos\DIARS\Ideas de Plantillas\sistemaVentas8\capaDatos\obj\Debug\capaDatos.dll
+C:\Cursos\DIARS\Ideas de Plantillas\sistemaVentas8\capaDatos\obj\Debug\capaDatos.pdb

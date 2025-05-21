@@ -1,60 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\",
+  "WorkspaceRootPath": "C:\\Cursos\\DIARS\\Ideas de Plantillas\\sistemaVentas8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|c:\\cursos\\diars\\semana 8\\sistemaventas8\\sistemaventas8\\views\\mantenedorcliente\\listarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|c:\\cursos\\diars\\ideas de plantillas\\sistemaventas8\\sistemaventas8\\views\\mantenedorcliente\\listarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|solutionrelative:sistemaventas8\\views\\mantenedorcliente\\listarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|c:\\cursos\\diars\\semana 8\\sistemaventas8\\sistemaventas8\\views\\mantenedorcliente\\detallescliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|solutionrelative:sistemaventas8\\views\\mantenedorcliente\\detallescliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|c:\\cursos\\diars\\ideas de plantillas\\sistemaventas8\\sistemaventas8\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|solutionrelative:sistemaventas8\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|c:\\cursos\\diars\\semana 8\\sistemaventas8\\sistemaventas8\\controllers\\mantenedorclientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|c:\\cursos\\diars\\ideas de plantillas\\sistemaventas8\\sistemaventas8\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|solutionrelative:sistemaventas8\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|c:\\cursos\\diars\\ideas de plantillas\\sistemaventas8\\sistemaventas8\\controllers\\mantenedorclientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|solutionrelative:sistemaventas8\\controllers\\mantenedorclientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07300F64-50FF-4EB7-B65A-8170506C8C01}|capaDatos\\capaDatos.csproj|c:\\cursos\\diars\\semana 8\\sistemaventas8\\capadatos\\datcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07300F64-50FF-4EB7-B65A-8170506C8C01}|capaDatos\\capaDatos.csproj|solutionrelative:capadatos\\datcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E157F97-33A9-46A1-8BC9-D72E1F2574F7}|capaLogica\\capaLogica.csproj|C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\capalogica\\logcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E157F97-33A9-46A1-8BC9-D72E1F2574F7}|capaLogica\\capaLogica.csproj|solutionrelative:capalogica\\logcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|c:\\cursos\\diars\\semana 8\\sistemaventas8\\sistemaventas8\\views\\mantenedorcliente\\inhabilitarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|solutionrelative:sistemaventas8\\views\\mantenedorcliente\\inhabilitarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|c:\\cursos\\diars\\semana 8\\sistemaventas8\\sistemaventas8\\views\\mantenedorcliente\\insertarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|solutionrelative:sistemaventas8\\views\\mantenedorcliente\\insertarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|c:\\cursos\\diars\\semana 8\\sistemaventas8\\sistemaventas8\\views\\mantenedorcliente\\editarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|solutionrelative:sistemaventas8\\views\\mantenedorcliente\\editarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07300F64-50FF-4EB7-B65A-8170506C8C01}|capaDatos\\capaDatos.csproj|C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07300F64-50FF-4EB7-B65A-8170506C8C01}|capaDatos\\capaDatos.csproj|solutionrelative:capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|c:\\cursos\\diars\\semana 8\\sistemaventas8\\sistemaventas8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|solutionrelative:sistemaventas8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAF2E955-CB49-4050-A465-A9B5091E2D19}|capaEntidad\\capaEntidad.csproj|C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\capaentidad\\entcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAF2E955-CB49-4050-A465-A9B5091E2D19}|capaEntidad\\capaEntidad.csproj|solutionrelative:capaentidad\\entcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|c:\\cursos\\diars\\ideas de plantillas\\sistemaventas8\\sistemaventas8\\wwwroot\\js\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{862D862D-3E54-4BBB-8978-DD3675B6190A}|sistemaVentas8\\sistemaVentas8.csproj|solutionrelative:sistemaventas8\\wwwroot\\js\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 174,
+      "VerticalTabListWidth": 338,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,144 +42,76 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DetallesCliente.cshtml",
-              "DocumentMoniker": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\sistemaVentas8\\Views\\MantenedorCliente\\DetallesCliente.cshtml",
-              "RelativeDocumentMoniker": "sistemaVentas8\\Views\\MantenedorCliente\\DetallesCliente.cshtml",
-              "ToolTip": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\sistemaVentas8\\Views\\MantenedorCliente\\DetallesCliente.cshtml",
-              "RelativeToolTip": "sistemaVentas8\\Views\\MantenedorCliente\\DetallesCliente.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-18T22:34:00.05Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "InhabilitarCliente.cshtml",
-              "DocumentMoniker": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\sistemaVentas8\\Views\\MantenedorCliente\\InhabilitarCliente.cshtml",
-              "RelativeDocumentMoniker": "sistemaVentas8\\Views\\MantenedorCliente\\InhabilitarCliente.cshtml",
-              "ToolTip": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\sistemaVentas8\\Views\\MantenedorCliente\\InhabilitarCliente.cshtml",
-              "RelativeToolTip": "sistemaVentas8\\Views\\MantenedorCliente\\InhabilitarCliente.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-18T22:05:18.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EditarCliente.cshtml",
-              "DocumentMoniker": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\sistemaVentas8\\Views\\MantenedorCliente\\EditarCliente.cshtml",
-              "RelativeDocumentMoniker": "sistemaVentas8\\Views\\MantenedorCliente\\EditarCliente.cshtml",
-              "ToolTip": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\sistemaVentas8\\Views\\MantenedorCliente\\EditarCliente.cshtml",
-              "RelativeToolTip": "sistemaVentas8\\Views\\MantenedorCliente\\EditarCliente.cshtml",
-              "ViewState": "AgIAABcAAAAAAAAAAAAuwEUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-18T17:54:27.918Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "InsertarCliente.cshtml",
-              "DocumentMoniker": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\sistemaVentas8\\Views\\MantenedorCliente\\InsertarCliente.cshtml",
-              "RelativeDocumentMoniker": "sistemaVentas8\\Views\\MantenedorCliente\\InsertarCliente.cshtml",
-              "ToolTip": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\sistemaVentas8\\Views\\MantenedorCliente\\InsertarCliente.cshtml",
-              "RelativeToolTip": "sistemaVentas8\\Views\\MantenedorCliente\\InsertarCliente.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-18T16:32:58.133Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\sistemaVentas8\\Program.cs",
-              "RelativeDocumentMoniker": "sistemaVentas8\\Program.cs",
-              "ToolTip": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\sistemaVentas8\\Program.cs",
-              "RelativeToolTip": "sistemaVentas8\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAASwBsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T15:54:09.666Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ListarCliente.cshtml",
-              "DocumentMoniker": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\sistemaVentas8\\Views\\MantenedorCliente\\ListarCliente.cshtml",
-              "RelativeDocumentMoniker": "sistemaVentas8\\Views\\MantenedorCliente\\ListarCliente.cshtml",
-              "ToolTip": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\sistemaVentas8\\Views\\MantenedorCliente\\ListarCliente.cshtml",
-              "RelativeToolTip": "sistemaVentas8\\Views\\MantenedorCliente\\ListarCliente.cshtml",
-              "ViewState": "AgIAADUAAAAAAAAAAAAwwEkAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-18T15:50:30.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MantenedorClienteController.cs",
-              "DocumentMoniker": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\sistemaVentas8\\Controllers\\MantenedorClienteController.cs",
-              "RelativeDocumentMoniker": "sistemaVentas8\\Controllers\\MantenedorClienteController.cs",
-              "ToolTip": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\sistemaVentas8\\Controllers\\MantenedorClienteController.cs",
-              "RelativeToolTip": "sistemaVentas8\\Controllers\\MantenedorClienteController.cs",
-              "ViewState": "AgIAAIkAAAAAAAAAAAAqwBcAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T15:47:16.72Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\capaDatos\\Conexion.cs",
-              "RelativeDocumentMoniker": "capaDatos\\Conexion.cs",
-              "ToolTip": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\capaDatos\\Conexion.cs",
-              "RelativeToolTip": "capaDatos\\Conexion.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T15:21:19.649Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LogCliente.cs",
-              "DocumentMoniker": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\capaLogica\\LogCliente.cs",
-              "RelativeDocumentMoniker": "capaLogica\\LogCliente.cs",
-              "ToolTip": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\capaLogica\\LogCliente.cs",
-              "RelativeToolTip": "capaLogica\\LogCliente.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAgwDkAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T15:14:23.951Z",
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Cursos\\DIARS\\Ideas de Plantillas\\sistemaVentas8\\sistemaVentas8\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "sistemaVentas8\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Cursos\\DIARS\\Ideas de Plantillas\\sistemaVentas8\\sistemaVentas8\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "sistemaVentas8\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAiwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-21T00:31:11.715Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "DatCliente.cs",
-              "DocumentMoniker": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\capaDatos\\DatCliente.cs",
-              "RelativeDocumentMoniker": "capaDatos\\DatCliente.cs",
-              "ToolTip": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\capaDatos\\DatCliente.cs",
-              "RelativeToolTip": "capaDatos\\DatCliente.cs",
-              "ViewState": "AgIAAKMAAAAAAAAAAAApwLsAAAAQAAAAAAAAAA==",
+              "Title": "MantenedorClienteController.cs",
+              "DocumentMoniker": "C:\\Cursos\\DIARS\\Ideas de Plantillas\\sistemaVentas8\\sistemaVentas8\\Controllers\\MantenedorClienteController.cs",
+              "RelativeDocumentMoniker": "sistemaVentas8\\Controllers\\MantenedorClienteController.cs",
+              "ToolTip": "C:\\Cursos\\DIARS\\Ideas de Plantillas\\sistemaVentas8\\sistemaVentas8\\Controllers\\MantenedorClienteController.cs",
+              "RelativeToolTip": "sistemaVentas8\\Controllers\\MantenedorClienteController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T15:14:08.514Z",
+              "WhenOpened": "2025-05-21T00:21:09.41Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "EntCliente.cs",
-              "DocumentMoniker": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\capaEntidad\\EntCliente.cs",
-              "RelativeDocumentMoniker": "capaEntidad\\EntCliente.cs",
-              "ToolTip": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\capaEntidad\\EntCliente.cs",
-              "RelativeToolTip": "capaEntidad\\EntCliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T15:13:50.886Z"
+              "DocumentIndex": 0,
+              "Title": "ListarCliente.cshtml",
+              "DocumentMoniker": "C:\\Cursos\\DIARS\\Ideas de Plantillas\\sistemaVentas8\\sistemaVentas8\\Views\\MantenedorCliente\\ListarCliente.cshtml",
+              "RelativeDocumentMoniker": "sistemaVentas8\\Views\\MantenedorCliente\\ListarCliente.cshtml",
+              "ToolTip": "C:\\Cursos\\DIARS\\Ideas de Plantillas\\sistemaVentas8\\sistemaVentas8\\Views\\MantenedorCliente\\ListarCliente.cshtml",
+              "RelativeToolTip": "sistemaVentas8\\Views\\MantenedorCliente\\ListarCliente.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T00:20:59.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dashboard.js",
+              "DocumentMoniker": "C:\\Cursos\\DIARS\\Ideas de Plantillas\\sistemaVentas8\\sistemaVentas8\\wwwroot\\js\\dashboard.js",
+              "RelativeDocumentMoniker": "sistemaVentas8\\wwwroot\\js\\dashboard.js",
+              "ToolTip": "C:\\Cursos\\DIARS\\Ideas de Plantillas\\sistemaVentas8\\sistemaVentas8\\wwwroot\\js\\dashboard.js",
+              "RelativeToolTip": "sistemaVentas8\\wwwroot\\js\\dashboard.js",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-21T00:16:59.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Cursos\\DIARS\\Ideas de Plantillas\\sistemaVentas8\\sistemaVentas8\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "sistemaVentas8\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Cursos\\DIARS\\Ideas de Plantillas\\sistemaVentas8\\sistemaVentas8\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "sistemaVentas8\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T00:01:39.055Z",
+              "EditorCaption": ""
             }
           ]
         }

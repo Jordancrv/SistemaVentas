@@ -17,61 +17,61 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = sistemaVentas8
 build_property.RootNamespace = sistemaVentas8
-build_property.ProjectDir = C:\Cursos\DIARS\SEMANA 8\sistemaVentas8\sistemaVentas8\
+build_property.ProjectDir = C:\Cursos\DIARS\Ideas de Plantillas\sistemaVentas8\sistemaVentas8\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Cursos\DIARS\SEMANA 8\sistemaVentas8\sistemaVentas8
+build_property.MSBuildProjectDirectory = C:\Cursos\DIARS\Ideas de Plantillas\sistemaVentas8\sistemaVentas8
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Cursos/DIARS/SEMANA 8/sistemaVentas8/sistemaVentas8/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[C:/Cursos/DIARS/Ideas de Plantillas/sistemaVentas8/sistemaVentas8/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Cursos/DIARS/SEMANA 8/sistemaVentas8/sistemaVentas8/Views/Home/Privacy.cshtml]
+[C:/Cursos/DIARS/Ideas de Plantillas/sistemaVentas8/sistemaVentas8/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Cursos/DIARS/SEMANA 8/sistemaVentas8/sistemaVentas8/Views/MantenedorCliente/DetallesCliente.cshtml]
+[C:/Cursos/DIARS/Ideas de Plantillas/sistemaVentas8/sistemaVentas8/Views/MantenedorCliente/DetallesCliente.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFudGVuZWRvckNsaWVudGVcRGV0YWxsZXNDbGllbnRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Cursos/DIARS/SEMANA 8/sistemaVentas8/sistemaVentas8/Views/MantenedorCliente/EditarCliente.cshtml]
+[C:/Cursos/DIARS/Ideas de Plantillas/sistemaVentas8/sistemaVentas8/Views/MantenedorCliente/EditarCliente.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFudGVuZWRvckNsaWVudGVcRWRpdGFyQ2xpZW50ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Cursos/DIARS/SEMANA 8/sistemaVentas8/sistemaVentas8/Views/MantenedorCliente/InhabilitarCliente.cshtml]
+[C:/Cursos/DIARS/Ideas de Plantillas/sistemaVentas8/sistemaVentas8/Views/MantenedorCliente/InhabilitarCliente.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFudGVuZWRvckNsaWVudGVcSW5oYWJpbGl0YXJDbGllbnRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Cursos/DIARS/SEMANA 8/sistemaVentas8/sistemaVentas8/Views/MantenedorCliente/InsertarCliente.cshtml]
+[C:/Cursos/DIARS/Ideas de Plantillas/sistemaVentas8/sistemaVentas8/Views/MantenedorCliente/InsertarCliente.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFudGVuZWRvckNsaWVudGVcSW5zZXJ0YXJDbGllbnRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Cursos/DIARS/SEMANA 8/sistemaVentas8/sistemaVentas8/Views/MantenedorCliente/ListarCliente.cshtml]
+[C:/Cursos/DIARS/Ideas de Plantillas/sistemaVentas8/sistemaVentas8/Views/MantenedorCliente/ListarCliente.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFudGVuZWRvckNsaWVudGVcTGlzdGFyQ2xpZW50ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Cursos/DIARS/SEMANA 8/sistemaVentas8/sistemaVentas8/Views/Shared/Error.cshtml]
+[C:/Cursos/DIARS/Ideas de Plantillas/sistemaVentas8/sistemaVentas8/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Cursos/DIARS/SEMANA 8/sistemaVentas8/sistemaVentas8/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Cursos/DIARS/Ideas de Plantillas/sistemaVentas8/sistemaVentas8/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Cursos/DIARS/SEMANA 8/sistemaVentas8/sistemaVentas8/Views/_ViewImports.cshtml]
+[C:/Cursos/DIARS/Ideas de Plantillas/sistemaVentas8/sistemaVentas8/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Cursos/DIARS/SEMANA 8/sistemaVentas8/sistemaVentas8/Views/_ViewStart.cshtml]
+[C:/Cursos/DIARS/Ideas de Plantillas/sistemaVentas8/sistemaVentas8/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Cursos/DIARS/SEMANA 8/sistemaVentas8/sistemaVentas8/Views/Shared/_Layout.cshtml]
+[C:/Cursos/DIARS/Ideas de Plantillas/sistemaVentas8/sistemaVentas8/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-15jmgypv1j

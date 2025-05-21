@@ -2,13 +2,11 @@
 
 @{
     ViewData["Title"] = "ListarCliente";
+    <link rel="stylesheet" href="~/css/site.css" />
 }
 
 <h1>ListarCliente</h1>
 
-<p>
-    <a asp-action="InsertarCliente">Insertar Cliente</a>
-</p>
 <table class="table">
     <thead>
         <tr>
@@ -70,7 +68,7 @@
             <td>
 
                 @Html.ActionLink("Editar", "EditarCliente", "MantenedorCliente", new { idCliente = item.idCliente }, new { @class = "button-editar" })
-                @Html.ActionLink("Details", "DetallesCliente", "MantenedorCliente", new { idCliente = item.idCliente }, new { @class = "btn btn-info" })
+                @Html.ActionLink("Detalles", "DetallesCliente", "MantenedorCliente", new { idCliente = item.idCliente }, new { @class = "btn btn-info" })
                 @Html.ActionLink("Inhabilitar", "InhabilitarCliente", "MantenedorCliente", new { idCliente = item.idCliente }, new { @class = "button-inhabilitar" })
             </td>
         </tr>

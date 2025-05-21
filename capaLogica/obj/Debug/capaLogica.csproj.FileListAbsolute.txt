@@ -20,3 +20,14 @@ C:\Cursos\DIARS\SEMANA 8\sistemaVentas8\capaLogica\obj\Debug\capaLogica.csproj.C
 C:\Cursos\DIARS\SEMANA 8\sistemaVentas8\capaLogica\obj\Debug\capaLogica.csproj.Up2Date
 C:\Cursos\DIARS\SEMANA 8\sistemaVentas8\capaLogica\obj\Debug\capaLogica.dll
 C:\Cursos\DIARS\SEMANA 8\sistemaVentas8\capaLogica\obj\Debug\capaLogica.pdb
+C:\Cursos\DIARS\Ideas de Plantillas\sistemaVentas8\capaLogica\bin\Debug\capaLogica.dll
+C:\Cursos\DIARS\Ideas de Plantillas\sistemaVentas8\capaLogica\bin\Debug\capaLogica.pdb
+C:\Cursos\DIARS\Ideas de Plantillas\sistemaVentas8\capaLogica\bin\Debug\capaDatos.dll
+C:\Cursos\DIARS\Ideas de Plantillas\sistemaVentas8\capaLogica\bin\Debug\capaEntidad.dll
+C:\Cursos\DIARS\Ideas de Plantillas\sistemaVentas8\capaLogica\bin\Debug\capaDatos.pdb
+C:\Cursos\DIARS\Ideas de Plantillas\sistemaVentas8\capaLogica\bin\Debug\capaEntidad.pdb
+C:\Cursos\DIARS\Ideas de Plantillas\sistemaVentas8\capaLogica\obj\Debug\capaLogica.csproj.AssemblyReference.cache
+C:\Cursos\DIARS\Ideas de Plantillas\sistemaVentas8\capaLogica\obj\Debug\capaLogica.csproj.CoreCompileInputs.cache
+C:\Cursos\DIARS\Ideas de Plantillas\sistemaVentas8\capaLogica\obj\Debug\capaLogica.csproj.Up2Date
+C:\Cursos\DIARS\Ideas de Plantillas\sistemaVentas8\capaLogica\obj\Debug\capaLogica.dll
+C:\Cursos\DIARS\Ideas de Plantillas\sistemaVentas8\capaLogica\obj\Debug\capaLogica.pdb

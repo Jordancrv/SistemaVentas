@@ -7968,11 +7968,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\sistemaVentas8\\sistemaVentas8.csproj",
+      "projectUniqueName": "C:\\Cursos\\DIARS\\Ideas de Plantillas\\sistemaVentas8\\sistemaVentas8\\sistemaVentas8.csproj",
       "projectName": "sistemaVentas8",
-      "projectPath": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\sistemaVentas8\\sistemaVentas8.csproj",
+      "projectPath": "C:\\Cursos\\DIARS\\Ideas de Plantillas\\sistemaVentas8\\sistemaVentas8\\sistemaVentas8.csproj",
       "packagesPath": "C:\\Users\\jorda\\.nuget\\packages\\",
-      "outputPath": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\sistemaVentas8\\obj\\",
+      "outputPath": "C:\\Cursos\\DIARS\\Ideas de Plantillas\\sistemaVentas8\\sistemaVentas8\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7993,11 +7993,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\capaEntidad\\capaEntidad.csproj": {
-              "projectPath": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\capaEntidad\\capaEntidad.csproj"
+            "C:\\Cursos\\DIARS\\Ideas de Plantillas\\sistemaVentas8\\capaEntidad\\capaEntidad.csproj": {
+              "projectPath": "C:\\Cursos\\DIARS\\Ideas de Plantillas\\sistemaVentas8\\capaEntidad\\capaEntidad.csproj"
             },
-            "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\capaLogica\\capaLogica.csproj": {
-              "projectPath": "C:\\Cursos\\DIARS\\SEMANA 8\\sistemaVentas8\\capaLogica\\capaLogica.csproj"
+            "C:\\Cursos\\DIARS\\Ideas de Plantillas\\sistemaVentas8\\capaLogica\\capaLogica.csproj": {
+              "projectPath": "C:\\Cursos\\DIARS\\Ideas de Plantillas\\sistemaVentas8\\capaLogica\\capaLogica.csproj"
             }
           }
         }

@@ -1,5 +1,8 @@
+wwwroot\css\dashboard.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\js\dashboard.js
+wwwroot\js\sidebar.js
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
@@ -46,6 +49,13 @@ wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
 wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
 wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
 wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\img\agregar-producto.png
+wwwroot\lib\img\product.svg
+wwwroot\lib\img\sales1.svg
+wwwroot\lib\img\settings.svg
+wwwroot\lib\img\transfer1.svg
+wwwroot\lib\img\users1.svg
+wwwroot\lib\index.html
 wwwroot\lib\jquery\dist\jquery.js
 wwwroot\lib\jquery\dist\jquery.min.js
 wwwroot\lib\jquery\dist\jquery.min.map
